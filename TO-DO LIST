@@ -1,0 +1,21 @@
+# 📝 To-Do List Application
+
+🚀 Developed during my remote frontend web development internship with OctaNet Services Pvt. Ltd., this sophisticated To-Do list application leverages HTML, CSS, and JavaScript to provide a seamless user experience.
+
+## Features
+
+- *Task Categorization:* Organize your tasks into General, Work, and Personal categories. 📂
+- *Date Assignment:* Assign due dates to tasks for better time management. 📅
+- *Task Management:* Mark tasks as complete or delete them as needed. ✅❌
+
+## Technologies Used
+
+- *HTML*: Structuring the web content. 🌐
+- *CSS*: Styling the application. 🎨
+- *JavaScript*: Adding interactivity and functionality. 💻
+
+## Installation
+
+1. *Clone the repository:*
+   ```bash
+   git clone https://github.com/sumandey7684/todo-list-app.git
